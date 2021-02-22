@@ -1,0 +1,9 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Entities\obj\Debug\netcoreapp3.1\DMSManager.Entities.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Entities\obj\Debug\netcoreapp3.1\DMSManager.Entities.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Entities\obj\Debug\netcoreapp3.1\DMSManager.Entities.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Entities\obj\Debug\netcoreapp3.1\DMSManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Entities\bin\Debug\netcoreapp3.1\DMSManager.Entities.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Entities\bin\Debug\netcoreapp3.1\DMSManager.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Entities\bin\Debug\netcoreapp3.1\DMSManager.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Entities\obj\Debug\netcoreapp3.1\DMSManager.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Entities\obj\Debug\netcoreapp3.1\DMSManager.Entities.pdb

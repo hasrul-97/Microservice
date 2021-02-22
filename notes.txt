@@ -1,0 +1,32 @@
+file and folder icons  -- done
+Navigation using breadcrumbs (on the top)  -- done
+Browser level caching of folderData  -- done
+search button On Top  -- done
+
+---
+
+Create, Rename, soft delete - folders -- done
+Validation (unique name, not null/empty, maxLength(), char contents, ignoreCase(), no spaces pre and post) --done
+
+---
+Copy folder and move folder
+
+----
+Metadata for folder - createdBy, createdDate, last modifed by, lastModified Date, history of Folders
+
+---------------
+webSocket For folder level changes
+fileTagging, auto tagging
+Server side caching of folder content
+Server notification for webSocket
+i18n
+accessControl for folder and life server side
+fileVersion control
+
+upload and download
+
+
+1. Multiple backend
+2. Same component/plugin based Azure AWS
+4. Multiple files
+5. Cancel in between -- done

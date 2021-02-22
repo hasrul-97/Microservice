@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DMSManager.Business/1.0.0": {
+        "dependencies": {
+          "DMSManager.Abstraction": "1.0.0",
+          "DMSManager.Entities": "1.0.0"
+        },
+        "runtime": {
+          "DMSManager.Business.dll": {}
+        }
+      },
+      "DMSManager.Abstraction/1.0.0": {
+        "dependencies": {
+          "DMSManager.Entities": "1.0.0"
+        },
+        "runtime": {
+          "DMSManager.Abstraction.dll": {}
+        }
+      },
+      "DMSManager.Entities/1.0.0": {
+        "runtime": {
+          "DMSManager.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DMSManager.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DMSManager.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DMSManager.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

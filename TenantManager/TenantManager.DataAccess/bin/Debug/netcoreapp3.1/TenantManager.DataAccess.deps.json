@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TenantManager.DataAccess/1.0.0": {
+        "dependencies": {
+          "TenantManager.Abstraction": "1.0.0",
+          "TenantManager.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TenantManager.DataAccess.dll": {}
+        }
+      },
+      "TenantManager.Abstraction/1.0.0": {
+        "dependencies": {
+          "TenantManager.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TenantManager.Abstraction.dll": {}
+        }
+      },
+      "TenantManager.Entities/1.0.0": {
+        "runtime": {
+          "TenantManager.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TenantManager.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TenantManager.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TenantManager.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

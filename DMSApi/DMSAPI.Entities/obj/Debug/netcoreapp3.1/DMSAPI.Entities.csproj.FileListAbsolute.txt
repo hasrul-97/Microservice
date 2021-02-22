@@ -1,0 +1,9 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\bin\Debug\netcoreapp3.1\DMSAPI.Entities.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\bin\Debug\netcoreapp3.1\DMSAPI.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\bin\Debug\netcoreapp3.1\DMSAPI.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\netcoreapp3.1\DMSAPI.Entities.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\netcoreapp3.1\DMSAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\netcoreapp3.1\DMSAPI.Entities.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\netcoreapp3.1\DMSAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\netcoreapp3.1\DMSAPI.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\netcoreapp3.1\DMSAPI.Entities.pdb

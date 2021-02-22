@@ -1,0 +1,14 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\bin\Debug\netcoreapp3.1\DMSManager.Abstraction.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\bin\Debug\netcoreapp3.1\DMSManager.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\obj\Debug\netcoreapp3.1\DMSManager.Repository.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\obj\Debug\netcoreapp3.1\DMSManager.Repository.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\obj\Debug\netcoreapp3.1\DMSManager.Repository.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\obj\Debug\netcoreapp3.1\DMSManager.Repository.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\bin\Debug\netcoreapp3.1\DMSManager.Repository.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\bin\Debug\netcoreapp3.1\DMSManager.Repository.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\bin\Debug\netcoreapp3.1\DMSManager.Repository.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\bin\Debug\netcoreapp3.1\DMSManager.Abstraction.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\bin\Debug\netcoreapp3.1\DMSManager.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\obj\Debug\netcoreapp3.1\DMSManager.Repository.csproj.CopyComplete
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\obj\Debug\netcoreapp3.1\DMSManager.Repository.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Repository\obj\Debug\netcoreapp3.1\DMSManager.Repository.pdb

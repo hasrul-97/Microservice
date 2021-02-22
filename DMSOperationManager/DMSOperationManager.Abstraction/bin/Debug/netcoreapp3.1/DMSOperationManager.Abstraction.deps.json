@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DMSOperationManager.Abstraction/1.0.0": {
+        "dependencies": {
+          "DMSOperationManager.Entities": "1.0.0"
+        },
+        "runtime": {
+          "DMSOperationManager.Abstraction.dll": {}
+        }
+      },
+      "DMSOperationManager.Entities/1.0.0": {
+        "runtime": {
+          "DMSOperationManager.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DMSOperationManager.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DMSOperationManager.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

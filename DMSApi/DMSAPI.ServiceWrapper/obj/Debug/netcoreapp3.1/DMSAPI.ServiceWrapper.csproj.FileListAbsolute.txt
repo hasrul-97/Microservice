@@ -1,0 +1,12 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\bin\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\bin\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\bin\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\bin\Debug\netcoreapp3.1\DMSAPI.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\bin\Debug\netcoreapp3.1\DMSAPI.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\obj\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\obj\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\obj\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\obj\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\obj\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.csproj.CopyComplete
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\obj\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.ServiceWrapper\obj\Debug\netcoreapp3.1\DMSAPI.ServiceWrapper.pdb

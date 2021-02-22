@@ -1,0 +1,38 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.exe
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.runtimeconfig.json
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.runtimeconfig.dev.json
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\obj\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\obj\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\obj\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\obj\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\obj\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\obj\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\obj\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.genruntimeconfig.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\EventStore.ClientAPI.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\EventStore.Client.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\EventStore.Client.Streams.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Microservice-LoadBalancer Trial\Microservice-LoadBalancer Trial\obj\Debug\netcoreapp3.1\Microservice-LoadBalancer Trial.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\bin\Debug\netcoreapp3.1\TenantManager.Business.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\bin\Debug\netcoreapp3.1\TenantManager.Business.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\bin\Debug\netcoreapp3.1\TenantManager.Business.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\bin\Debug\netcoreapp3.1\TenantManager.Abstraction.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\bin\Debug\netcoreapp3.1\TenantManager.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\bin\Debug\netcoreapp3.1\TenantManager.Abstraction.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\bin\Debug\netcoreapp3.1\TenantManager.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\obj\Debug\netcoreapp3.1\TenantManager.Business.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\obj\Debug\netcoreapp3.1\TenantManager.Business.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\obj\Debug\netcoreapp3.1\TenantManager.Business.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\obj\Debug\netcoreapp3.1\TenantManager.Business.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\obj\Debug\netcoreapp3.1\TenantManager.Business.csproj.CopyComplete
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\obj\Debug\netcoreapp3.1\TenantManager.Business.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\TenantManager\TenantManager.Business\obj\Debug\netcoreapp3.1\TenantManager.Business.pdb

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="re2zkipn.whx~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DMSOperationManager.Abstraction\DMSOperationManager.Abstraction.csproj" />
+    <ProjectReference Include="..\DMSOperationManager.Business\DMSOperationManager.Business.csproj" />
+    <ProjectReference Include="..\DMSOperationManager.DataAccess\DMSOperationManager.DataAccess.csproj" />
+    <ProjectReference Include="..\DMSOperationManager.Repository\DMSOperationManager.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

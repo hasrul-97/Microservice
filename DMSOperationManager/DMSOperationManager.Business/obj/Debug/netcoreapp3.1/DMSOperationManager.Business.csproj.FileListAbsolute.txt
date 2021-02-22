@@ -1,0 +1,14 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\bin\Debug\netcoreapp3.1\DMSOperationManager.Business.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\bin\Debug\netcoreapp3.1\DMSOperationManager.Business.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\bin\Debug\netcoreapp3.1\DMSOperationManager.Business.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\bin\Debug\netcoreapp3.1\DMSOperationManager.Abstraction.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\bin\Debug\netcoreapp3.1\DMSOperationManager.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\bin\Debug\netcoreapp3.1\DMSOperationManager.Abstraction.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\bin\Debug\netcoreapp3.1\DMSOperationManager.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\obj\Debug\netcoreapp3.1\DMSOperationManager.Business.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\obj\Debug\netcoreapp3.1\DMSOperationManager.Business.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\obj\Debug\netcoreapp3.1\DMSOperationManager.Business.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\obj\Debug\netcoreapp3.1\DMSOperationManager.Business.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\obj\Debug\netcoreapp3.1\DMSOperationManager.Business.csproj.CopyComplete
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\obj\Debug\netcoreapp3.1\DMSOperationManager.Business.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Business\obj\Debug\netcoreapp3.1\DMSOperationManager.Business.pdb

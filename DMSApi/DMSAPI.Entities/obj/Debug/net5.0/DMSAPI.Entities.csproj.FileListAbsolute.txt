@@ -1,0 +1,12 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\bin\Debug\net5.0\DMSAPI.Entities.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\bin\Debug\net5.0\DMSAPI.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\bin\Debug\net5.0\ref\DMSAPI.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\bin\Debug\net5.0\DMSAPI.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\net5.0\DMSAPI.Entities.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\net5.0\DMSAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\net5.0\DMSAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\net5.0\DMSAPI.Entities.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\net5.0\DMSAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\net5.0\DMSAPI.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\net5.0\ref\DMSAPI.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSApi\DMSAPI.Entities\obj\Debug\net5.0\DMSAPI.Entities.pdb

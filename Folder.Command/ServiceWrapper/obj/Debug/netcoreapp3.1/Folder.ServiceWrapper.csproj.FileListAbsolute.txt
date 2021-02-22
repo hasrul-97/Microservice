@@ -1,0 +1,14 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\bin\Debug\netcoreapp3.1\Folder.ServiceWrapper.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\bin\Debug\netcoreapp3.1\Folder.ServiceWrapper.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\bin\Debug\netcoreapp3.1\Folder.ServiceWrapper.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\bin\Debug\netcoreapp3.1\Folder.Command.Abstraction.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\bin\Debug\netcoreapp3.1\Folder.Command.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\bin\Debug\netcoreapp3.1\Folder.Command.Abstraction.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\bin\Debug\netcoreapp3.1\Folder.Command.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\obj\Debug\netcoreapp3.1\Folder.ServiceWrapper.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\obj\Debug\netcoreapp3.1\Folder.ServiceWrapper.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\obj\Debug\netcoreapp3.1\Folder.ServiceWrapper.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\obj\Debug\netcoreapp3.1\Folder.ServiceWrapper.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\obj\Debug\netcoreapp3.1\Folder.ServiceWrapper.csproj.CopyComplete
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\obj\Debug\netcoreapp3.1\Folder.ServiceWrapper.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\ServiceWrapper\obj\Debug\netcoreapp3.1\Folder.ServiceWrapper.pdb

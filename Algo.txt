@@ -1,0 +1,35 @@
+Source:
+
+a -> b -> c -> d
+
+a -> b -> c -> e
+
+a -> b -> f -> g
+
+a -> b -> f -> h
+
+
+SourceDictionary : 
+{a}
+{a_b}
+{a_b_c}
+{a_b_f}
+{a_b_c_d}
+{a_b_c_e}
+{a_b_f_g}
+{a_b_f_h}
+
+Step 0: Add sourceRoot to sourceDictionary (ex: _root)
+Step 1: Take the first Item
+Step 2: while (parent != sourceRoot)
+Step 3: Find currentParent in sourceDictionary
+Step 4: Add currentParent to a temporaryList; find parent of currentParent and continue loop;
+Step 5: Loop temporaryList in reverse and construct the key.
+
+Target: 
+
+a -> b
+Targtet Dict
+
+{a}
+{a_b}

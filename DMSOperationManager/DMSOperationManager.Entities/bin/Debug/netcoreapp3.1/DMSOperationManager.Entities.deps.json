@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DMSOperationManager.Entities/1.0.0": {
+        "runtime": {
+          "DMSOperationManager.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DMSOperationManager.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\ServiceWrapper\\ServiceWrapper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Abstraction\\Folder.Command.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Abstraction\\Folder.Command.Abstraction.csproj",
+        "projectName": "Folder.Command.Abstraction",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Abstraction\\Folder.Command.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Entities\\Folder.Command.Entities.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Entities\\Folder.Command.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Entities\\Folder.Command.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Entities\\Folder.Command.Entities.csproj",
+        "projectName": "Folder.Command.Entities",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Entities\\Folder.Command.Entities.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\ServiceWrapper\\ServiceWrapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\ServiceWrapper\\ServiceWrapper.csproj",
+        "projectName": "ServiceWrapper",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\ServiceWrapper\\ServiceWrapper.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\ServiceWrapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Abstraction\\Folder.Command.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Abstraction\\Folder.Command.Abstraction.csproj"
+              },
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Entities\\Folder.Command.Entities.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\Folder.Command\\Folder.Command.Entities\\Folder.Command.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Steeltoe.Discovery.ClientCore": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Steeltoe.Discovery.Eureka": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

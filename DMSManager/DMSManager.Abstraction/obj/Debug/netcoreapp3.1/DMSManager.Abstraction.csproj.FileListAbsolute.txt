@@ -1,0 +1,12 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\obj\Debug\netcoreapp3.1\DMSManager.Abstraction.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\obj\Debug\netcoreapp3.1\DMSManager.Abstraction.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\obj\Debug\netcoreapp3.1\DMSManager.Abstraction.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\obj\Debug\netcoreapp3.1\DMSManager.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\bin\Debug\netcoreapp3.1\DMSManager.Abstraction.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\bin\Debug\netcoreapp3.1\DMSManager.Abstraction.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\bin\Debug\netcoreapp3.1\DMSManager.Abstraction.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\bin\Debug\netcoreapp3.1\DMSManager.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\bin\Debug\netcoreapp3.1\DMSManager.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\obj\Debug\netcoreapp3.1\DMSManager.Abstraction.csproj.CopyComplete
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\obj\Debug\netcoreapp3.1\DMSManager.Abstraction.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSManager\DMSManager.Abstraction\obj\Debug\netcoreapp3.1\DMSManager.Abstraction.pdb

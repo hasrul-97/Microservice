@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Steeltoe.Discovery.ClientCore" Version="3.0.2" />
+    <PackageReference Include="Steeltoe.Discovery.Eureka" Version="3.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DMSAPI.Entities\DMSAPI.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

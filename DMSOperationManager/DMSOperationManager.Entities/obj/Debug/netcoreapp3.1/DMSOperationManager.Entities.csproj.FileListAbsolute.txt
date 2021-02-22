@@ -1,0 +1,9 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Entities\bin\Debug\netcoreapp3.1\DMSOperationManager.Entities.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Entities\bin\Debug\netcoreapp3.1\DMSOperationManager.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Entities\bin\Debug\netcoreapp3.1\DMSOperationManager.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Entities\obj\Debug\netcoreapp3.1\DMSOperationManager.Entities.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Entities\obj\Debug\netcoreapp3.1\DMSOperationManager.Entities.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Entities\obj\Debug\netcoreapp3.1\DMSOperationManager.Entities.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Entities\obj\Debug\netcoreapp3.1\DMSOperationManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Entities\obj\Debug\netcoreapp3.1\DMSOperationManager.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.Entities\obj\Debug\netcoreapp3.1\DMSOperationManager.Entities.pdb

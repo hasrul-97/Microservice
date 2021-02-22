@@ -1,0 +1,518 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager\\DMSOperationManager.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj",
+        "projectName": "DMSOperationManager.Abstraction",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Business\\DMSOperationManager.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Business\\DMSOperationManager.Business.csproj",
+        "projectName": "DMSOperationManager.Business",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Business\\DMSOperationManager.Business.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj"
+              },
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DataAccess\\DMSOperationManager.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DataAccess\\DMSOperationManager.DataAccess.csproj",
+        "projectName": "DMSOperationManager.DataAccess",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DataAccess\\DMSOperationManager.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj"
+              },
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DI\\DMSOperationManager.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DI\\DMSOperationManager.DI.csproj",
+        "projectName": "DMSOperationManager.DI",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DI\\DMSOperationManager.DI.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj"
+              },
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Business\\DMSOperationManager.Business.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Business\\DMSOperationManager.Business.csproj"
+              },
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DataAccess\\DMSOperationManager.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DataAccess\\DMSOperationManager.DataAccess.csproj"
+              },
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Repository\\DMSOperationManager.Repository.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Repository\\DMSOperationManager.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj",
+        "projectName": "DMSOperationManager.Entities",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Repository\\DMSOperationManager.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Repository\\DMSOperationManager.Repository.csproj",
+        "projectName": "DMSOperationManager.Repository",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Repository\\DMSOperationManager.Repository.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager\\DMSOperationManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager\\DMSOperationManager.csproj",
+        "projectName": "DMSOperationManager",
+        "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager\\DMSOperationManager.csproj",
+        "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj"
+              },
+              "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DI\\DMSOperationManager.DI.csproj": {
+                "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.DI\\DMSOperationManager.DI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Steeltoe.Discovery.ClientCore": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Steeltoe.Discovery.Eureka": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

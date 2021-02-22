@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DMSOperationManager.Abstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DMSOperationManager.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DMSOperationManager.Abstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DMSOperationManager.Abstraction.dll": {}
+        }
+      },
+      "DMSOperationManager.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DMSOperationManager.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DMSOperationManager.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DMSOperationManager.Abstraction/1.0.0": {
+      "type": "project",
+      "path": "../DMSOperationManager.Abstraction/DMSOperationManager.Abstraction.csproj",
+      "msbuildProject": "../DMSOperationManager.Abstraction/DMSOperationManager.Abstraction.csproj"
+    },
+    "DMSOperationManager.Entities/1.0.0": {
+      "type": "project",
+      "path": "../DMSOperationManager.Entities/DMSOperationManager.Entities.csproj",
+      "msbuildProject": "../DMSOperationManager.Entities/DMSOperationManager.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DMSOperationManager.Abstraction >= 1.0.0",
+      "DMSOperationManager.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\M1056247\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Business\\DMSOperationManager.Business.csproj",
+      "projectName": "DMSOperationManager.Business",
+      "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Business\\DMSOperationManager.Business.csproj",
+      "packagesPath": "C:\\Users\\M1056247\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\M1056247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj": {
+              "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Abstraction\\DMSOperationManager.Abstraction.csproj"
+            },
+            "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj": {
+              "projectPath": "C:\\Users\\M1056247\\Desktop\\MicroServices - 2\\DMSOperationManager\\DMSOperationManager.Entities\\DMSOperationManager.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\bin\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\bin\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\bin\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\bin\Debug\netcoreapp3.1\DMSOperationManager.Abstraction.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\bin\Debug\netcoreapp3.1\DMSOperationManager.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\bin\Debug\netcoreapp3.1\DMSOperationManager.Abstraction.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\bin\Debug\netcoreapp3.1\DMSOperationManager.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\obj\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\obj\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\obj\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\obj\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\obj\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.csproj.CopyComplete
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\obj\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\DMSOperationManager\DMSOperationManager.DataAccess\obj\Debug\netcoreapp3.1\DMSOperationManager.DataAccess.pdb

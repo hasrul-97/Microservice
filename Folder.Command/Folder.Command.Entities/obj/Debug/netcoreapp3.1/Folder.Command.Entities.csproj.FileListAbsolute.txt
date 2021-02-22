@@ -1,0 +1,9 @@
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\Folder.Command.Entities\bin\Debug\netcoreapp3.1\Folder.Command.Entities.deps.json
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\Folder.Command.Entities\bin\Debug\netcoreapp3.1\Folder.Command.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\Folder.Command.Entities\bin\Debug\netcoreapp3.1\Folder.Command.Entities.pdb
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\Folder.Command.Entities\obj\Debug\netcoreapp3.1\Folder.Command.Entities.csprojAssemblyReference.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\Folder.Command.Entities\obj\Debug\netcoreapp3.1\Folder.Command.Entities.AssemblyInfoInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\Folder.Command.Entities\obj\Debug\netcoreapp3.1\Folder.Command.Entities.AssemblyInfo.cs
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\Folder.Command.Entities\obj\Debug\netcoreapp3.1\Folder.Command.Entities.csproj.CoreCompileInputs.cache
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\Folder.Command.Entities\obj\Debug\netcoreapp3.1\Folder.Command.Entities.dll
+C:\Users\M1056247\Desktop\MicroServices - 2\Folder.Command\Folder.Command.Entities\obj\Debug\netcoreapp3.1\Folder.Command.Entities.pdb
